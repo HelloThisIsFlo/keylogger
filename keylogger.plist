@@ -7,7 +7,12 @@
   <key>ProgramArguments</key>
   <array>
       <string>/usr/local/bin/keylogger</string>
+      <string>/Users/floriankempenich/Work/Private/Dev/Keyboards/keylogger/keystroke.log</string>
   </array>
+  <key>StandardOutPath</key>
+  <string>/Users/floriankempenich/Work/Private/Dev/Keyboards/keylogger/stdout.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/floriankempenich/Work/Private/Dev/Keyboards/keylogger/stderr.log</string>
   <key>RunAtLoad</key>
   <true/>
   <key>KeepAlive</key>

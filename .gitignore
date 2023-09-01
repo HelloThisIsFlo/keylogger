@@ -1,3 +1,5 @@
 keystroke.log
+stdout.log
+stderr.log
 keylogger
 .DS_Store
